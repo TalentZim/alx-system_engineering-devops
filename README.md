@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-alx-system_engineering-devops
+This repository contains solutions to shell tasks
